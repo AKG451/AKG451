@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHNreTlmNW81dm9uZTh6bzhrYmFzMmg3bjZpYncwMjhsN2hjaTJxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5EiRZJNR7cgZwqncwM/giphy.gif" width="100%" height="200" style="object-fit: cover; border-radius: 10px;" alt="Matrix Rain Banner">
-</div>
+</div> -->
 
 # Hi there 👋, I'm Aryan Gupta
 

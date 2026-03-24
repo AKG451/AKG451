@@ -1,7 +1,3 @@
-<!-- <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHNreTlmNW81dm9uZTh6bzhrYmFzMmg3bjZpYncwMjhsN2hjaTJxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5EiRZJNR7cgZwqncwM/giphy.gif" width="100%" height="200" style="object-fit: cover; border-radius: 10px;" alt="Matrix Rain Banner">
-</div> -->
-
 # Hi there 👋, I'm Aryan Gupta
 
 *"The boy who did not code."*
@@ -17,7 +13,7 @@ I am an engineering student at MIT Manipal building robust autonomous UAV system
 - **UAV Simulation Pipelines:** Designing autonomous OFFBOARD flight scripts using Python and pymavlink for direct velocity vector calculations.
 
 ### 🏆 Open Source Highlights
-- **Open RMF Contributor:** Authored an approved pull request (currently pending merge) to resolve a ROS 2 diagnostic bug in the official repository. Modified the CMakeLists.txt build pipeline to properly install package.xml, ensuring full package compatibility with ros2 doctor and ros2 pkg metadata queries.
+- **Open RMF Contributor:** Authored a successfully merged pull request to resolve a ROS 2 diagnostic bug in the official `open-rmf/rmf_traffic` repository. Modified the `CMakeLists.txt` build pipeline to properly install `package.xml`, ensuring full package compatibility with `ros2 doctor` and `ros2 pkg` metadata queries.
 
 ---
 

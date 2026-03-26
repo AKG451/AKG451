@@ -1,54 +1,55 @@
-# Hi there 👋, I'm Aryan Gupta
+# Aryan Gupta
 
-*"The boy who did not code."*
+**Autonomous Systems & Software Architecture | CS @ MIT Manipal**
 
-**Computer Science Undergrad @ MIT Manipal | Autonomous Systems Engineer | Full-Stack Developer**
+I engineer robust autonomous UAV architectures and deploy high-performance web infrastructure. My work focuses on bridging the gap between low-level hardware control (ROS 2, PX4) and scalable, production-ready frontend environments. 
 
-I am an engineering student at MIT Manipal building robust autonomous UAV systems and full-stack web applications. I love bridging the gap between low-level hardware control and scalable software architectures. 
+### 🔭 Current Architecture & Engineering
+- **Production Infrastructure:** Architected and deployed the official web domain for [Swarm Robotics](https://swarmrobotics.in/) using a React, Vite, and Tailwind CSS stack. 
+- **Autonomous UAV Pipelines:** Designing OFFBOARD flight scripts using Python and `pymavlink` to bypass standard GCS software, enabling direct velocity-vector navigation within custom Gazebo physics simulations.
+- **Vision-Based Control:** Developing an autonomous visual servoing pipeline using OpenCV and `cv_bridge` to stabilize UAV flight against aerodynamic disturbances.
+- **Full-Stack Development:** Building MERN-stack architectures featuring robust JWT authentication and real-time database operations.
 
-### 🔭 What I'm currently working on
-- **Swarm Robotics:** Engineering a hybrid UAV control architecture within a custom Gazebo physics simulation, integrating ROS 2, PX4 Autopilot, and MAVLink. 
-- **Vision-Based Control:** Developing an autonomous vision-based servoing pipeline using OpenCV and CV Bridge to stabilize flight against aerodynamic disturbances.
-- **Full-Stack Development:** Architecting a MERN-stack social platform featuring JWT user authentication and real-time CRUD operations.
-- **UAV Simulation Pipelines:** Designing autonomous OFFBOARD flight scripts using Python and pymavlink for direct velocity vector calculations.
-
-### 🏆 Open Source Highlights
-- **Open RMF Contributor:** Authored a successfully merged pull request to resolve a ROS 2 diagnostic bug in the official `open-rmf/rmf_traffic` repository. Modified the `CMakeLists.txt` build pipeline to properly install `package.xml`, ensuring full package compatibility with `ros2 doctor` and `ros2 pkg` metadata queries.
+### 🏆 Open Source & Infrastructure
+- **Open RMF Contributor:** Authored a successfully merged patch in the official `open-rmf/rmf_traffic` repository. Rewrote the `CMakeLists.txt` build pipeline to resolve a package metadata bug, ensuring full compatibility with `ros2 doctor` diagnostic queries.
 
 ---
 
-### 💻 Tech Stack
+### 💻 Technology Stack
 
 **Robotics & Systems:** ![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white) 
+![PX4](https://img.shields.io/badge/PX4_Autopilot-023D6A?style=for-the-badge&logo=px4&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white) 
 ![Gazebo](https://img.shields.io/badge/Gazebo-FFB20F?style=for-the-badge&logo=Gazebo&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+**Web Architecture:** ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**Languages & Databases:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**Web & Databases:** ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
-### 📊 Coding Activity & Stats
+### 📊 Engineering Metrics
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AKG451&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Aryan's GitHub Stats" height="192" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKG451&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="192" />
-  
-  <br><br>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AKG451&theme=tokyo-night&bg_color=0D1117&color=38B2AC&line=61DAFB&point=FFFFFF&hide_border=true" alt="Aryan's Activity Graph" width="100%" />
+</div>
 
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AKG451&theme=tokyonight&hide_border=true&background=0D1117&ring=61DAFB&fire=38B2AC&currStreakNum=FFFFFF" alt="GitHub Streak" />
   <img src="https://leetcard.jacoblin.cool/akg451?theme=dark&font=Syne&ext=activity" alt="LeetCode Stats" />
 </div>
 
 <br>
 
-<div align="left">
+<div align="center">
   <a href="mailto:akg7160@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/aryan-gupta-81a691371"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://leetcode.com/u/akg451/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>

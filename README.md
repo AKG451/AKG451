@@ -1,36 +1,29 @@
 # Aryan Gupta
 
-**Autonomous Systems & Software Architecture | CS @ MIT Manipal**
+**AI & Automation Engineer @ Swarm Robotics | CS @ MIT Manipal**
 
-I engineer robust autonomous UAV architectures and deploy high-performance web infrastructure. My work focuses on bridging the gap between low-level hardware control (ROS 2, PX4) and scalable, production-ready frontend environments. 
+I engineer robust autonomous UAV architectures, focusing on computer vision, flight stabilization, and low-level hardware control. While my primary domain is autonomous systems and AI, I also architect scalable, production-ready web infrastructure when the mission requires it.
 
-### 🔭 Current Architecture & Engineering
-- **Production Infrastructure:** Architected and deployed the official web domain for [Swarm Robotics](https://swarmrobotics.in/) using a React, Vite, and Tailwind CSS stack. 
-- **Autonomous UAV Pipelines:** Designing OFFBOARD flight scripts using Python and `pymavlink` to bypass standard GCS software, enabling direct velocity-vector navigation within custom Gazebo physics simulations.
-- **Vision-Based Control:** Developing an autonomous visual servoing pipeline using OpenCV and `cv_bridge` to stabilize UAV flight against aerodynamic disturbances.
-- **Full-Stack Development:** Building MERN-stack architectures featuring robust JWT authentication and real-time database operations.
+### 🏢 Experience & Core Engineering
+- **AI & Automation Engineer @ Swarm Robotics:** Developing an autonomous vision-based servoing pipeline using **OpenCV** and custom **Proportional-Integral-Derivative (PID) controllers** to stabilize UAV flight against aerodynamic disturbances. 
+- **Autonomous UAV Pipelines:** Designing OFFBOARD flight scripts using **Python** and `pymavlink` to bypass standard GCS software, enabling direct velocity-vector navigation within custom **Gazebo** physics simulations. Integrating simulation pipelines with **ROS 2** and **PX4 Autopilot**.
+- **Production Infrastructure:** Architected and deployed the official `swarmrobotics.in` web domain using a **React, Vite, and Tailwind CSS** stack to house the team's mission logs and system architectures.
+- **Full-Stack Development:** Building scalable **MERN-stack** applications featuring robust JWT authentication, RESTful APIs, and real-time **MongoDB** database operations.
 
-### 🏆 Open Source & Infrastructure
+### 🏆 Open Source
 - **Open RMF Contributor:** Authored a successfully merged patch in the official `open-rmf/rmf_traffic` repository. Rewrote the `CMakeLists.txt` build pipeline to resolve a package metadata bug, ensuring full compatibility with `ros2 doctor` diagnostic queries.
 
 ---
 
 ### 💻 Technology Stack
 
-**Robotics & Systems:** ![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white) 
-![PX4](https://img.shields.io/badge/PX4_Autopilot-023D6A?style=for-the-badge&logo=px4&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white) 
-![Gazebo](https://img.shields.io/badge/Gazebo-FFB20F?style=for-the-badge&logo=Gazebo&logoColor=black)
+**Robotics & Systems:** ![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white) ![PX4](https://img.shields.io/badge/PX4_Autopilot-023D6A?style=for-the-badge&logo=px4&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white) ![Gazebo](https://img.shields.io/badge/Gazebo-FFB20F?style=for-the-badge&logo=Gazebo&logoColor=black) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Web Architecture:** ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+**Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**Languages & Databases:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+**Data & Engineering Tools:** ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+
+**Web Architecture:** ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 

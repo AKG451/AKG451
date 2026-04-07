@@ -11,7 +11,9 @@ I engineer robust autonomous UAV architectures, focusing on computer vision, fli
 - **Full-Stack Development:** Building scalable **MERN-stack** applications featuring robust JWT authentication, RESTful APIs, and real-time **MongoDB** database operations.
 
 ### 🏆 Open Source
-- **Open RMF Contributor:** Authored a successfully merged patch in the official `open-rmf/rmf_traffic` repository. Rewrote the `CMakeLists.txt` build pipeline to resolve a package metadata bug, ensuring full compatibility with `ros2 doctor` diagnostic queries.
+- **Open RMF Contributor:** Authored multiple successfully merged patches in the official `open-rmf/rmf_traffic` repository:
+  - Refactored the AGV planner and graph modules to resolve strict C++ compiler warnings (`-Wrange-loop-construct`, `-Wunused-variable`), enforcing better memory safety practices and compiler compliance within the core algorithms.
+  - Rewrote the `CMakeLists.txt` build pipeline to resolve a package metadata bug, ensuring full compatibility with `ros2 doctor` diagnostic queries.
 
 ---
 

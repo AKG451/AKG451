@@ -1,3 +1,3 @@
-# Aryan Gupta
+# Aryan K. Gupta
 
 **CS @ MIT Manipal**
